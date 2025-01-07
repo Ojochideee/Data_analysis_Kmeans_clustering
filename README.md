@@ -1,5 +1,6 @@
-Socio-Economic Country Profiles Using PCA and K-Means Clustering
-Project Overview
+**Socio-Economic Country Profiles Using PCA and K-Means Clustering**
+**Project Overview**
+
 This project analyzes socio-economic data from various countries to uncover meaningful patterns and group countries into clusters based on their socio-economic profiles. This project provides insights into how countries compare across key socioeconomic indicators by leveraging Principal Component Analysis (PCA) for dimensionality reduction and K-Means clustering for grouping.
 
 Objectives
@@ -9,7 +10,7 @@ Insights: Visualize and interpret the clusters to identify trends and similariti
 Features
 Dimensionality reduction with PCA to simplify analysis and visualization.
 Clustering using K-Means to group countries into distinct socio-economic categories.
-For better understanding, visualise PCA components, elbow method, and country clusters.
+Visualise PCA components, elbow method, and country clusters for better understanding.
 Insights into socio-economic disparities, similarities, and global trends.
 
 Dataset
